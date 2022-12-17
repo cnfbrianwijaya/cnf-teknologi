@@ -1,0 +1,60 @@
+.banner {
+    background: url(https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2018/11/dark-wallpapers.jpg) no-repeat center center;
+    background-size: cover;
+    padding-top: 20%;
+    padding-bottom: 20%;
+}
+
+.card-title{
+    font-weight: bold;
+}
+.card-text{
+    text-align: justify;
+}
+
+.profile-image{
+    width: 250px;
+    border: 10px solid grey;
+}
+
+.programmer{
+    font-size: 20px;
+}
+
+.home-p{
+    text-align: justify;
+}
+
+.imgprt{
+    width: auto;
+    height: 200px;
+}
+
+.industriimg{
+    margin-left: 20px;
+    float: left;
+}
+
+.industry-style{
+    font-size: 18px;
+    margin-left: 30px;
+    text-align: justify;
+}
+
+.ekonomiimg{
+    margin-right: 20px;
+    float: right;
+}
+
+.ekonomi-style{
+    text-align: justify;
+}
+
+.telekomunikasiimg{
+    margin-left: 20px;
+    float: left;
+}
+
+.telekomunikasi-style{
+    text-align: justify;
+}
